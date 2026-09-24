@@ -1,0 +1,8 @@
+{
+  "name": "Ganesha — The Sacred Journey",
+  "description": "A high-end endless runner celebrating Ganesh Chaturthi with procedural Indian classical ragas, dynamic tempo scaling, synthesized tabla and manjira percussion, dynamic camera tilt/zoom, day-to-night lighting, and 21 sacred Patri blessings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
